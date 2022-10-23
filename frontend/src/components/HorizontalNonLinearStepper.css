@@ -1,0 +1,57 @@
+.text-input {
+  font-weight: 500;
+  color: #000000;
+  margin: 0;
+  padding: 10px;
+  width: 100%;
+  border: 1px solid #000000;
+  border-radius: 5px;
+}
+
+.form-label-header {
+  font-weight: 500;
+  color: #000000;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.form-label-description {
+    font-weight: 500;
+    color: grey;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.form-select{
+    font-weight: 500;
+    color: #000000;
+    margin: 0;
+    padding: 10px;
+    width: 100%;
+    border: 1px solid #000000;
+    border-radius: 5px;
+}
+
+.test-button-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 20px;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+}
+
+.test-button{
+    font-weight: 500;
+    color: #000000;
+    margin: 0;
+    padding: 10px;
+    width: 100%;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    border-color: rgb(172, 2, 172);
+}
